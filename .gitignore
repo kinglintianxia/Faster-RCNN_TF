@@ -2,3 +2,6 @@
 *.so
 *.o
 faster_rcnn_models
+
+# ckpt model
+*VGGnet_fast_rcnn_iter_70000.ckpt 
